@@ -1,0 +1,6 @@
+.virtual_documents
+.ipynb_checkpoints
+aws_run_orthofinder.sh
+data/Proteomes/
+.DS_Store
+env
