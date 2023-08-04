@@ -1,0 +1,11 @@
+Refseq assembly accession,Full organism name,Species,Strain,Assembly level,Host Disease,Isolation Source
+GCF_000271365.1,Pseudomonas aeruginosa DK2,Pseudomonas aeruginosa,DK2,Complete Genome,cystic fibrosis,sputum
+GCF_000510305.1,Pseudomonas aeruginosa SCV20265,Pseudomonas aeruginosa,SCV20265,Complete Genome,cystic fibrosis,lung
+GCF_002951475.1,Pseudomonas fulva FDAARGOS_167,Pseudomonas fulva,FDAARGOS_167,Complete Genome,cystic fibrosis,sputum
+GCF_002943995.1,Pseudomonas monteilii FDAARGOS_171,Pseudomonas monteilii,FDAARGOS_171,Complete Genome,cystic fibrosis,sputum
+GCF_004355125.1,Pseudomonas aeruginosa AES1M,Pseudomonas aeruginosa,AES1M,Complete Genome,cystic fibrosis,sputum
+GCF_004355145.1,Pseudomonas aeruginosa AES1R,Pseudomonas aeruginosa,AES1R,Complete Genome,cystic fibrosis,sputum
+GCF_013343435.1,Pseudomonas aeruginosa DVT419,Pseudomonas aeruginosa,DVT419,Complete Genome,cystic fibrosis,lung
+GCF_013343475.1,Pseudomonas aeruginosa DVT779,Pseudomonas aeruginosa,DVT779,Complete Genome,cystic fibrosis,lung
+GCF_013343535.1,Pseudomonas aeruginosa DVT412,Pseudomonas aeruginosa,DVT412,Complete Genome,cystic fibrosis,lung
+GCF_022559545.1,Pseudomonas aeruginosa PES_P749,Pseudomonas aeruginosa,PES_P749,Complete Genome,cystic fibrosis,sputum
