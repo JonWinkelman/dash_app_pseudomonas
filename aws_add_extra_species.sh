@@ -1,7 +1,7 @@
 #!/bin/bash
 ## Set AWS credentials
-export AWS_ACCESS_KEY_ID=AKIAWHC4XC6G3CEJ5ZXJ
-export AWS_SECRET_ACCESS_KEY=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
+export AWS_ACCESS_KEY_ID=######
+export AWS_SECRET_ACCESS_KEY=#######
 export DEFAULT_REGION_NAME=us-east-2
 export DEFAULT_OUTPUT_FORMAT=json
 
@@ -28,5 +28,4 @@ time tar -I pigz -cf Results_Aug04.tar.gz 2023-07-27_OF_Results/Results_Aug04
 aws s3 cp Results_Aug04.tar.gz s3://mukherjee-lab/dash_app_pseudomonas_2/
 
 
-# if new tree is used:
 ./OrthoFinder/orthofinder  -ft 2023-07-27_OF_Results/Results_Aug04/ -s ps_reroot.txt
